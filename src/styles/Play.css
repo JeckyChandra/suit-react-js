@@ -1,0 +1,35 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    background-color: rgb(34, 34, 34);
+}
+
+.play{
+    display: flex;
+    justify-content: center;
+}
+
+.items{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+.Link{
+    padding: 100px;
+    margin: 20px;
+    border-radius: 10px 10px;
+    border: 2px solid rgb(255, 255, 60);
+    text-decoration: none;
+}
+
+.Link:visited{
+    color: white;
+}
+
+.Link:hover{
+    font-size: larger;
+}
+

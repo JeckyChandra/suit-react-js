@@ -1,0 +1,19 @@
+.game{
+    text-align: center;
+}
+
+h3{
+    color: white;
+}
+
+.play-again{
+    color: white;
+}
+
+.play-again:visited{
+    color: white;
+}
+
+.counter{
+    color: white;
+}
